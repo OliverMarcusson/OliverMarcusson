@@ -1,7 +1,7 @@
 # Tjena fan! 👋
 
 Jag är den där grabben som kodar Blackjack hela tiden. Jag är inte gamblingberoende jag lovar.
-Mina repos är public, för vem har sina repos private egentligen?
+Mina repos är public, för vem har sina repos private egentligen? Garbage collectors är det värsta som någonsin uppfunnits på denna planet.
 
 ## 🗓️ Mina nuvarande projekt är:
 * [RustyJack](https://github.com/OliverMarcusson/RustyJack) (Rust)
