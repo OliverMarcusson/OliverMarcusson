@@ -6,7 +6,7 @@ Mina repos är public, för vem har sina repos private egentligen? Garbage colle
 ## 🗓️ Mina nuvarande projekt är:
 * [RustyJack](https://github.com/OliverMarcusson/RustyJack) (Rust)
 * [Tetek21s Discord Bott](https://github.com/OliverMarcusson/tek21bot) (Javascript)
-* Fucking Crusoue (Python, inget repo än)
+* [Fucking Crusoue](https://github.com/NTI-Gymnasiet-Nacka/projekt-a-fuckingcrusoe) (Python, privat repo)
 
 ## ✅ Just nu lär jag mig: 
 * 🦀 Rust
