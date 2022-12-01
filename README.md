@@ -4,6 +4,7 @@ Jag är den där grabben som kodar Blackjack hela tiden. Jag är inte gamblingbe
 Mina repos är public, för vem har sina repos private egentligen? Garbage collectors är det värsta som någonsin uppfunnits på denna planet.
 
 ## 🗓️ Mina nuvarande projekt är:
+* [Advent Of Code 2022](https://github.com/OliverMarcusson/adventOfCode2022) (Rust)
 * [RustyJack](https://github.com/OliverMarcusson/RustyJack) (Rust)
 * [Tetek21s Discord Bott](https://github.com/OliverMarcusson/tek21bot) (Javascript)
 * [Fucking Crusoue](https://github.com/NTI-Gymnasiet-Nacka/projekt-a-fuckingcrusoe) (Python, privat repo)
