@@ -7,7 +7,7 @@ Mina repos är public, för vem har sina repos private egentligen? Garbage colle
 * [Advent Of Code 2022](https://github.com/OliverMarcusson/adventOfCode2022) (Rust)
 * [RustyJack](https://github.com/OliverMarcusson/RustyJack) (Rust)
 * [Tetek21s Discord Bott](https://github.com/OliverMarcusson/tek21bot) (Javascript)
-* [Fucking Crusoue](https://github.com/NTI-Gymnasiet-Nacka/projekt-a-fuckingcrusoe) (Python, privat repo)
+* [Adventure Island](https://github.com/NTI-Gymnasiet-Nacka/projekt-a-fuckingcrusoe) (Python, privat repo)
 
 ## ✅ Just nu lär jag mig: 
 * 🦀 Rust
