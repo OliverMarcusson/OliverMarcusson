@@ -10,6 +10,7 @@ Jag heter Oliver. Nybörjare på programmering!
 * 🦀 Rust
 * 🐍 Python
 * 🩵 C
+* 🟢 Neovim
 * 📜 Javascript
 * ❤️ Svelte, SvelteKit
 
