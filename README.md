@@ -1,24 +1,17 @@
 # Tjena fan! 👋
 
-Jag är den där grabben som kodar Blackjack hela tiden. Jag är inte gamblingberoende jag lovar.
-Mina repos är public, för vem har sina repos private egentligen? Garbage collectors är det värsta som någonsin uppfunnits på denna planet.
+Jag heter Oliver. Nybörjare på programmering!
 
 ## 🗓️ Mina nuvarande projekt är:
-* [Advent Of Code 2022](https://github.com/OliverMarcusson/adventOfCode2022) (Rust)
-* [RustyJack](https://github.com/OliverMarcusson/RustyJack) (Rust)
-* [Tetek21s Discord Bott](https://github.com/OliverMarcusson/tek21bot) (Javascript)
-* [Adventure Island](https://github.com/NTI-Gymnasiet-Nacka/projekt-a-fuckingcrusoe) (Python, privat repo)
+* 🦀 [Advent of Code 2024](https://github.com/OliverMarcusson/aoc24)
+* 🐍 [nand2tetris](https://github.com/OliverMarcusson/nand2tetris)
 
 ## ✅ Just nu lär jag mig: 
 * 🦀 Rust
 * 🐍 Python
-* 📜 Javascript/Typescript
-* 🖌️ HTML/CSS
-* 💚 Vue.js
-
-## 🕑 I framtiden är jag intresserad av att lära mig:
-* 🔵 C# (Unity)
-* 🟣 C++
+* 🩵 C
+* 📜 Javascript
+* ❤️ Svelte, SvelteKit
 
 <!--
 **OliverMarcusson/OliverMarcusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
