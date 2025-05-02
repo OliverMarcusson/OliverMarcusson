@@ -3,8 +3,7 @@
 Jag heter Oliver. Nybörjare på programmering!
 
 ## 🗓️ Mina nuvarande projekt är:
-* 🦀 [Advent of Code 2024](https://github.com/OliverMarcusson/aoc24)
-* 🐍 [nand2tetris](https://github.com/OliverMarcusson/nand2tetris)
+* 🦀 [Rust C2](https://github.com/OliverMarcusson/rust-c2)
 
 ## ✅ Just nu lär jag mig: 
 * 🦀 Rust
