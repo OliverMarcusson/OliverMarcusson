@@ -3,15 +3,10 @@
 Jag heter Oliver. Nybörjare på programmering!
 
 ## 🗓️ Mina nuvarande projekt är:
-* 🦀 [Rust C2](https://github.com/OliverMarcusson/rust-c2)
+* 🦀 [Advent of Code 2025](https://github.com/OliverMarcusson/aoc25)
 
 ## ✅ Just nu lär jag mig: 
 * 🦀 Rust
-* 🐍 Python
-* 🩵 C
-* 🟢 Neovim
-* 📜 Javascript
-* ❤️ Svelte, SvelteKit
 
 <!--
 **OliverMarcusson/OliverMarcusson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
