@@ -3,9 +3,12 @@
 Jag heter Oliver. Nybörjare på programmering!
 
 ## 🗓️ Mina nuvarande projekt är:
-* 🦀 [Advent of Code 2025](https://github.com/OliverMarcusson/aoc25)
+* 🔵 Munin
+* 🟣 Kitsune Download Manager
+* 🔴 Chimera C2
 
-## ✅ Just nu lär jag mig: 
+## ✅ Just nu lär jag mig:
+* 🤖 Agentic Coding
 * 🦀 Rust
 
 <!--
