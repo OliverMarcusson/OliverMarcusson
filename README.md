@@ -4,6 +4,7 @@ Jag heter Oliver. Nybörjare på programmering!
 
 ## 🗓️ Mina nuvarande projekt är:
 * 🔵 Munin
+* ⚫ Vexillum
 * 🟢 Ferrlock
 * 🟣 Kitsune Download Manager
 * 🔴 Chimera C2
@@ -11,6 +12,8 @@ Jag heter Oliver. Nybörjare på programmering!
 ## ✅ Just nu lär jag mig:
 * 🤖 Agentic Coding
 * 🦀 Rust
+* 🔐 PWN
+* 🔵 Golang
 
 ## 🛠️ Teknik jag har jobbat med:
 
