@@ -1,6 +1,6 @@
 # Tjena fan! 👋
 
-Jag heter Oliver. Nybörjare på programmering!
+Jag heter Oliver, Jack of All Trades, master of none.
 
 ## 🗓️ Mina nuvarande projekt är:
 * 🔵 Munin
@@ -10,7 +10,6 @@ Jag heter Oliver. Nybörjare på programmering!
 * 🔴 Chimera C2
 
 ## ✅ Just nu lär jag mig:
-* 🤖 Agentic Coding
 * 🦀 Rust
 * 🔐 PWN
 * 🔵 Golang
