@@ -4,6 +4,7 @@ Jag heter Oliver, Jack of All Trades, master of none.
 
 ## 🗓️ Mina nuvarande projekt är:
 * 🔵 Munin
+* 📺 Euripus
 * ⚫ Vexillum
 * 🟢 Ferrlock
 * 🟣 Kitsune Download Manager
