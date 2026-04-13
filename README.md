@@ -4,6 +4,7 @@ Jag heter Oliver, Jack of All Trades, master of none.
 
 ## 🗓️ Mina nuvarande projekt är:
 * 🔵 Munin
+* ⚪ MCFC
 * 📺 Euripus
 * ⚫ Vexillum
 * 🟢 Ferrlock
@@ -14,6 +15,7 @@ Jag heter Oliver, Jack of All Trades, master of none.
 * 🦀 Rust
 * 🔐 PWN
 * 🔵 Golang
+* 🟢 MCFunction
 
 ## 🛠️ Teknik jag har jobbat med:
 
