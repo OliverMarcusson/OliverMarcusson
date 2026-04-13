@@ -1,6 +1,6 @@
 # Tjena fan! 👋
 
-Jag heter Oliver, Jack of All Trades, master of none.
+Jag heter Oliver. Jobbar med lite allt möjligt!
 
 ## 🗓️ Mina nuvarande projekt är:
 * 🔵 Munin
