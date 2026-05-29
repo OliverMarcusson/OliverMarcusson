@@ -13,7 +13,7 @@ Jag heter Oliver. Jobbar med lite allt möjligt!
 * 🔴 Chimera C2
 
 ## ✅ Just nu lär jag mig:
-* 🦀 Rust
+* 🔷 C
 * 🔐 PWN
 * 🔵 Golang
 * 🟢 MCFunction
