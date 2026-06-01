@@ -3,10 +3,10 @@
 Jag heter Oliver. Jobbar med lite allt möjligt!
 
 ## 🗓️ Mina nuvarande projekt är:
+* 🔵 C-Utils
+* 📺 Euripus
 * 🔵 Munin
 * ⚪ MCFC
-* 🏡 LRF&EVF
-* 📺 Euripus
 * ⚫ Vexillum
 * 🟢 Ferrlock
 * 🟣 Kitsune Download Manager
@@ -14,9 +14,8 @@ Jag heter Oliver. Jobbar med lite allt möjligt!
 
 ## ✅ Just nu lär jag mig:
 * 🔷 C
-* 🔐 PWN
 * 🔵 Golang
-* 🟢 MCFunction
+* 🔐 PWN
 
 ## 🛠️ Teknik jag har jobbat med:
 
@@ -31,16 +30,8 @@ Jag heter Oliver. Jobbar med lite allt möjligt!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" alt="Bun" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" alt="Tauri" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
 </p>
-
-<!-- ## 📊 GitHub-statistik:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OliverMarcusson&show_icons=true&theme=radical&locale=se" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverMarcusson&layout=compact&theme=radical&locale=se" alt="Mest använda språk" />
-</p> -->
