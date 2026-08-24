@@ -1,18 +1,17 @@
-# Tjena fan! 👋
+# Tjena! 👋
 
 Jag heter Oliver. Jobbar med lite allt möjligt!
 
-## 🗓️ Mina nuvarande projekt är:
-* 🔵 C-Utils
+## 🗓️ Mina aktiva projekt är:
+* 🎵 Lyra
+* 🔒 Claustra
+* 🏴 Vexillum
 * 📺 Euripus
-* 🔵 Munin
-* ⚪ MCFC
-* ⚫ Vexillum
-* 🟢 Ferrlock
-* 🟣 Kitsune Download Manager
-* 🔴 Chimera C2
+* 🟣 Kitsune
+* 🔴 Chimera
 
 ## ✅ Just nu lär jag mig:
+* 🟣 Nix
 * 🔷 C
 * 🔵 Golang
 * 🔐 PWN
