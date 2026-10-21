@@ -4,11 +4,11 @@ Jag heter Oliver. Jobbar med lite allt möjligt!
 
 ## 🗓️ Mina aktiva projekt är:
 * 🎵 Lyra
-* 🔒 Claustra
-* 🏴 Vexillum
 * 📺 Euripus
-* 🟣 Kitsune
-* 🔴 Chimera
+* 🩶 MusicThing
+* 💜 VideoThing
+* 🧡 Pagina
+* 💜 Nebula
 
 ## ✅ Just nu lär jag mig:
 * 🟣 Nix
